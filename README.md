@@ -50,16 +50,16 @@
 ### [Quillstash](https://quillstash.com)
 A global tech-focused platform for reading and writing articles. Built with Next.js, Tailwind CSS, and Node.js.
 
-### [QR Code Generator](#)
+### [QR Code Generator](https://github.com/IbrahimDoba/qr-gen-code)
 A versatile tool to generate QR codes. Built with Next.js, NextUI, and Tailwind CSS.
 
-### [Wordgen](#)
+### [Wordgen](https://github.com/IbrahimDoba/jurnel)
 An app to generate words and maintain a daily journal. Built with Next.js and Django.
 
-### [Ssaver](#)
+### [Ssaver](https://github.com/IbrahimDoba/Nextjs-YtApp)
 A web app for downloading YouTube videos. Built with Next.js, Node.js, and Tailwind CSS.
 
-### [Prestiq Build](#)
+### [Prestiq Build](https://github.com/IbrahimDoba/PristiqueBuild)
 A website for a construction company specializing in steel frames. Built with Next.js and Tailwind CSS.
 
 ---
@@ -83,6 +83,6 @@ npm run dev
 Open http://localhost:3000 in your browser to view the portfolio.
 
 📈 <span style="color: #1e40af; font-weight: bold;">GitHub Stats</span>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Ibrahim's GitHub stats"> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?IbrahimDoba&show_icons=true&theme=radical" alt="Ibrahim's GitHub stats"> </div>
 📫 <span style="color: #1e40af; font-weight: bold;">Connect with Me</span>
-<div align="center"> <a href="https://www.linkedin.com/in/ibrahimdoba" style="margin-right: 10px;"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://twitter.com/your-twitter-handle" style="margin-right: 10px;"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </div> ```
+<div align="center"> <a href="https://www.linkedin.com/in/ibrahimdoba" style="margin-right: 10px;"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://x.com/DobaIbrahim" style="margin-right: 10px;"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> <a href="mailto:ibrahimdoba55@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </div> ```
