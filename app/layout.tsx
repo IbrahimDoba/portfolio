@@ -10,12 +10,12 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    default: "swajp - A Full Stack Developer",
-    template: "%s | swajp - A Full Stack Developer",
+    default: "Ibrahim Doba - A Front-End Developer",
+    template: "%s | Ibrahim Doba - A Front-End Developer",
   },
-  metadataBase: new URL("https://swajp.me"),
+  metadataBase: new URL("https://ibrahimdoba.vercel.app"),
   description:
-    "Czech Full Stack Developer with a passion for web technologies. Check out my projects and get in touch with me.",
+    "Nigeria Front End Developer with a passion for web technologies. Check out my projects and get in touch with me.",
   twitter: {
     card: "summary_large_image",
   },

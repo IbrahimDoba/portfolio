@@ -12,16 +12,16 @@ export default function AboutPage() {
       <h2 className="text-4xl font-bold text-primary">About</h2>
       <p className="text-muted-foreground mt-1 mb-4">Something About me</p>
       <div className="flex flex-col md:flex-row gap-4">
-        <div className="w-full space-y-3">
+        <div className="w-full space-y-3 ">
           <p>
-            Hi! I&apos;m Ibrahim Doba, a frontend developer with 4 years of
+            Hi! I&apos;m <span className="text-2xl font-bold ">Ibrahim Doba</span>, a frontend developer with 4 years of
             hands-on coding experience. What started as a curiosity for web
             development has now grown into a daily passion where I get to craft
             modern and visually appealing websites.
           </p>
           <p>
-            I&apos;m a big fan of using emerging technologies like Next.js,
-            React, and Tailwind CSS, which help me bring the latest trends and
+            I&apos;m a big fan of using emerging technologies like <span className="font-bold"> Next.js,
+            React, and Tailwind CSS, </span> which help me bring the latest trends and
             best practices to life in web development. My goal is to create
             websites that not only function seamlessly but also leave a lasting
             visual impression.
@@ -29,7 +29,7 @@ export default function AboutPage() {
           <p>
             While my focus is on frontend development, I&apos;m equally
             comfortable working on full-stack applications using tools like
-            MongoDB, Drizzle ORM, NeonDB, and Node.js. Whether it&apos;s
+           <span className="font-bold"> MongoDB, Drizzle ORM, NeonDB, and Node.js.</span> Whether it&apos;s
             frontend flair or backend logic, I&apos;m all about delivering a
             complete and polished web experience.
           </p>
