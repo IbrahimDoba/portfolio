@@ -1,4 +1,4 @@
-Ibrahim Doba's Portfolio
+<h1>Ibrahim Doba's Portfolio</h1>h1>
 Welcome to my portfolio! I’m Ibrahim Doba, a passionate frontend developer from Nigeria. I specialize in building modern, responsive, and interactive web applications. My toolkit includes a range of technologies and frameworks that I use to bring ideas to life.
 
 💻 Technologies & Tools
