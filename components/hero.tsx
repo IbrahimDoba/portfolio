@@ -38,7 +38,7 @@ export default function Hero() {
         Developer.
       </h1>
       <p className="mt-5 max-w-prose text-muted-foreground sm:text-lg">
-         I specialize in
+      I&apos;m <span className="font-semibold text-red-500">Ibrahim Doba</span> and I specialize in
         using cutting-edge technologies like Next.js, Drizzle ORM, Tailwind CSS, and
         React to bring ideas to life. I enjoy writing clean and efficient code.
       </p>
