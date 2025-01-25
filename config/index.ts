@@ -170,6 +170,11 @@ export const TECH_STACK = [
     href: "https://orm.drizzle.team",
     image:  "https://cdn.simpleicons.org/Drizzle"
   },
+  {
+    title: "Prisma",
+    href: "https://www.prisma.io",
+    image:  "https://cdn.simpleicons.org/Prisma"
+  },
 ];
 
 export const QUILLSTASH = {
@@ -189,6 +194,7 @@ export const SSAVER = {
   image: "/projects/ssaver-landing.png",
   tags: ["Nextjs", "React", "NodeJs", "Tailwind Css"],
 };
+
 export const WORDGEN = {
   title: "Wordgen ",
   description:
@@ -196,4 +202,12 @@ export const WORDGEN = {
   href: "https://www.wordgen.org",
   image: "/projects/wordgenpng.png",
   tags: ["Nextjs", "Django", "Python", "Tailwind Css"],
+};
+export const QUILLAI = {
+  title: "QuillAI ",
+  description:
+    " Effortlessly generate highly SEO-optimized articles and keywords with QuillAI, empowering businesses and writers to create impactful content and save time.",
+  href: "https://ai.quillstash.com",
+  image: "/projects/quillai.png",
+  tags: ["Nextjs", "Prisma", "NeonDB", "Tailwind Css"],
 };

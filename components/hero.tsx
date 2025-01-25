@@ -33,14 +33,14 @@ export default function Hero() {
       <h1 className="max-w-4xl text-4xl font-bold md:text-5xl lg:text-6xl">
         Hey, I&apos;m a{" "}
         <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent">
-          Front-End
+          Full-Stack NextJs 
         </span>{" "}
         Developer.
       </h1>
       <p className="mt-5 max-w-prose text-muted-foreground sm:text-lg">
       I&apos;m <span className="font-semibold text-red-500">Ibrahim Doba</span> and I specialize in
-        using cutting-edge technologies like Next.js, Drizzle ORM, Tailwind CSS, and
-        React to bring ideas to life. I enjoy writing clean and efficient code.
+        using cutting-edge technologies like Next.js, React,
+        Tailwind CSS to bring ideas to life. I enjoy writing clean and efficient code.
       </p>
       {/* <Link
         href="https://discord.gg/wbnZU3vTMb"

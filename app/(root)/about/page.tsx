@@ -14,7 +14,7 @@ export default function AboutPage() {
       <div className="flex flex-col md:flex-row gap-4">
         <div className="w-full space-y-3 ">
           <p>
-            Hi! I&apos;m <span className="text-2xl font-bold ">Ibrahim Doba</span>, a frontend developer with 4 years of
+            Hi! I&apos;m <span className="text-2xl font-bold ">Ibrahim Doba</span>, a FullS-Stack Nextjs developer with 4 years of
             hands-on coding experience. What started as a curiosity for web
             development has now grown into a daily passion where I get to craft
             modern and visually appealing websites.
