@@ -6,7 +6,7 @@ export default function Footer() {
     return new Date().getFullYear();
   };
   return (
-    <footer className="bg-background mx-auto w-full max-w-screen-xl px-6 md:px-20 z-50">
+    <footer className="bg-background mx-auto w-full max-w-screen-lg px-6 md:px-20 z-50">
       <div className="border-t w-full py-6">
         <div className="grid grid-cols-3">
           <div className="flex flex-col gap-4 w-fit">

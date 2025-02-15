@@ -29,25 +29,25 @@ export const NAVIGATION = [
 ];
 
 export const PROJECTS: Project[] = [
-  {
-    title: "QR-Code Review Generator",
-    description:
-      " A sleek and responsive QR code generator built using Next.js, NextUI, and Tailwind CSS. This tool allows users to effortlessly generate customized QR codes, providing an intuitive interface with a modern design and seamless performance across devices.",
-    href: "https://qr-gen-code.vercel.app",
-    github: "https://github.com/IbrahimDoba/qr-gen-code",
-    image: "/projects/qrcode.png",
-    tags: ["Next.js", "Tailwind CSS", "NextUi"],
-    featured: true,
-  },
-  {
-    title: "Silver - Ai PDF",
-    description:
-      "Built an AI-driven platform using Next.js, Node.js, and Langchain, enabling users to upload PDF files and interact with the content by asking questions. Leveraging advanced LLM capabilities.",
-    href: "https://ai-pdf-eight.vercel.app",
-    github: "https://github.com/IbrahimDoba/AI-PDF",
-    image: "/projects/aipdf.png",
-    tags: ["NextJS", "Tailwind CSS", "NodeJs", "LLM", "LangChain"],
-  },
+  // {
+  //   title: "QR-Code Review Generator",
+  //   description:
+  //     " A sleek and responsive QR code generator built using Next.js, NextUI, and Tailwind CSS. This tool allows users to effortlessly generate customized QR codes, providing an intuitive interface with a modern design and seamless performance across devices.",
+  //   href: "https://qr-gen-code.vercel.app",
+  //   github: "https://github.com/IbrahimDoba/qr-gen-code",
+  //   image: "/projects/qrcode.png",
+  //   tags: ["Next.js", "Tailwind CSS", "NextUi"],
+  //   featured: true,
+  // },
+  // {
+  //   title: "Silver - Ai PDF",
+  //   description:
+  //     "Built an AI-driven platform using Next.js, Node.js, and Langchain, enabling users to upload PDF files and interact with the content by asking questions. Leveraging advanced LLM capabilities.",
+  //   href: "https://ai-pdf-eight.vercel.app",
+  //   github: "https://github.com/IbrahimDoba/AI-PDF",
+  //   image: "/projects/aipdf.png",
+  //   tags: ["NextJS", "Tailwind CSS", "NodeJs", "LLM", "LangChain"],
+  // },
   {
     title: "Pristique-Build",
     description:
@@ -56,6 +56,7 @@ export const PROJECTS: Project[] = [
     github: "https://github.com/IbrahimDoba/PristiqueBuild",
     image: "/projects/pristiq.png",
     tags: ["NextJS", "Tailwind CSS"],
+    featured: true,
   },
 
   {
