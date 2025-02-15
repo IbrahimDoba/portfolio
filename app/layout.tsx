@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    default: "Ibrahim Doba - A Front-End Developer",
+    default: "Ibrahim Doba - A Full-Stack NextJs Developer",
     template: "%s | Ibrahim Doba - A Full-Stack Nextjs Developer",
   },
   metadataBase: new URL("https://ibrahimdoba.vercel.app"),

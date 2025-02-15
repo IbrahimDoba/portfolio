@@ -13,7 +13,7 @@ import MaxWidthWrapper from "./max-width-wrapper";
 
 export default function ProjectStudy() {
   const project = QUILLSTASH;
-  const saver = SSAVER;
+  // const saver = SSAVER;
   const quillAi = QUILLAI;
   return (
     <MaxWidthWrapper className="py-10 md:py-20">
@@ -86,7 +86,7 @@ export default function ProjectStudy() {
             </div>
           </Card>
         </Link>
-        <Link href={saver.href}>
+        {/* <Link href={saver.href}>
           <Card className="h-full group flex flex-col-reverse lg:flex-row justify-between">
             <div className="lg:p-4 w-full lg:border-r lg:flex items-end">
               <div>
@@ -117,7 +117,7 @@ export default function ProjectStudy() {
               </div>
             </div>
           </Card>
-        </Link>
+        </Link> */}
         
       </div>
     </MaxWidthWrapper>
