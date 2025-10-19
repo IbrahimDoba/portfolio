@@ -21,7 +21,7 @@ export default function FeaturedProjects() {
         {PROJECTS.filter((project) => project.featured).map((project) => (
           <Card className="h-full group" key={project.title}>
             <div className="p-4">
-              <Link href={project.href}>
+              <Link href={project.href} target="_blank" rel="noopener noreferrer">
                 <div className="overflow-hidden rounded-lg">
                   <Image
                     alt="Image"
@@ -37,7 +37,7 @@ export default function FeaturedProjects() {
             <CardHeader className="pt-0 pb-3">
               <CardTitle>
                 <div className="flex gap-2 items-center">
-                  <Link href={project.href}>{project.title}</Link>
+                  <Link href={project.href} target="_blank" rel="noopener noreferrer">{project.title}</Link>
                   {project.github && <GithubLink link={project.github} />}
                 </div>
               </CardTitle>

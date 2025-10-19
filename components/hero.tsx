@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Hero() {
   return (
-    <MaxWidthWrapper className="mb-16  sm:mt-32 flex flex-col items-center justify-center text-center ">
+    <MaxWidthWrapper className="mb-16 flex flex-col items-center justify-center text-center ">
       <div>
         {/* <ContactForm> */}
           <div className="inline-flex items-center rounded-lg border px-3 py-1 text-sm font-medium mb-4">
@@ -17,7 +17,7 @@ export default function Hero() {
           </div>
         {/* </ContactForm> */}
 
-        <a href="/projects/ibrahim 2024 cv.pdf"  target="_blank" rel="noopener noreferrer">
+        <a href="/projects/ibrahim 2025 v2 .pdf"  target="_blank" rel="noopener noreferrer">
         <div className=" ml-4 inline-flex items-center rounded-lg border px-3 py-1 text-sm font-medium mb-4">
           <span className="relative flex h-2 w-2 mr-2">
             <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-red-400 opacity-75"></span>
